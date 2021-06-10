@@ -8,9 +8,9 @@ kere yapılabilmeli.
 Rooms
 - Kullanıcıların müsait odaları görebilmesi için müsait odaların listelenmesi
 - Odaların müsaitlik durumuna göre rezerve edilmesi
+- Reserve edilen odaların giriş-çıkış tarihlerini listelemesi
 
 Admin
-- Reserve edilen odaların giriş-çıkış tarihlerini listelemesi
 - Otele giriş yapan kullanıcıların admin tarafından kabul edilmesi yada reddedilmesi
 - Otel yönetiminin isteğine bağlı olarak bir müşterinin rezervasyonunun iptal edilebilme
 veya tarihlerinin güncellenebilmesi
