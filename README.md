@@ -1,12 +1,12 @@
 ### Nodejs ve MongoDB öğrenmeye başlama
 
 Users
-kullanıcıların istediği tarihte bir odayı rezerve edip, istediğinde rezerve ettiği odayı
+- kullanıcıların istediği tarihte bir odayı rezerve edip, istediğinde rezerve ettiği odayı
 değiştirebileceği, tarihi değiştirebileceği veya iptal edebileceği bir kullanıcı arayüzü. Kötüye kullanımı önlemek için ise oda değişikliği veya tarih değişikliği sadece 1
 kere yapılabilmeli.
 
 Rooms
-Kullanıcıların müsait odaları görebilmesi için müsait odaların listelenmesi
+- Kullanıcıların müsait odaları görebilmesi için müsait odaların listelenmesi
 - Odaların müsaitlik durumuna göre rezerve edilmesi
 
 Admin
